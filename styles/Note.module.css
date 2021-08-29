@@ -250,6 +250,11 @@
   color: #3e4347;
   font-size: 12px;
 }
+.about {
+  font-size: 15px;
+  color: #3e4347;
+  letter-spacing: 0.05rem;
+}
 
 @media (max-width: 600px) {
   .grid {

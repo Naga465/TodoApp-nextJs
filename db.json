@@ -1,3 +1,46 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "Built with Next js",
+      "description": "Handling Pre rendering all the notes data on server side.",
+      "timeStamp": "2021-08-29T21:56:45.697Z",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "description": "Written Custom Hooks, \nMaintaining Folder Structure,\nTypescript\nBuilt Custom Hooks for State Sharing\n",
+      "timeStamp": "2021-08-29T22:00:00.832Z",
+      "id": 4
+    },
+    {
+      "title": "Features Implemented",
+      "description": "Handled Note Edit,\nHandle  Note Delete ,\nGetting All Updated Notes,\nMaining Edit Time Stamp\n",
+      "timeStamp": "2021-08-29T22:03:54.682Z",
+      "id": 5
+    },
+    {
+      "title": "Features we can Customize",
+      "description": "Maintaining The Task Status\nAuto Complete After Task Status completes beyond Date\n\n",
+      "timeStamp": "2021-08-29T22:01:21.012Z",
+      "id": 6
+    },
+    {
+      "title": "Styling",
+      "description": "simple styling (Refer as document and Google Keep) and not too much focused on design and styling things.",
+      "timeStamp": "2021-08-29T22:00:57.838Z",
+      "id": 7
+    },
+    {
+      "title": "Things can do better",
+      "description": "Content writing in about us page\nUnit test cases in Jest,\nLogos and icons\n",
+      "timeStamp": "2021-08-29T22:05:19.423Z",
+      "id": 8
+    },
+    {
+      "title": "Time Taken for task",
+      "description": "For me it almost took 5 - 7 hours to complete it initial stage flow",
+      "timeStamp": "2021-08-29T22:03:19.871Z",
+      "id": 9
+    }
+  ]
 }
